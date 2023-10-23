@@ -22,50 +22,39 @@ A seguir alguns exemplos de classificações feitas pelo algoritmo:
 
 ### Iris
 
-Linearmente separável.
-
-Precisão: 1.0
-
-Revocação: 1.0
-
-F1-score: 1.0
+Linearmente separável.  
+Precisão: 1.0  
+Revocação: 1.0  
+F1-score: 1.0  
 
 ![image](https://github.com/mateuskrause/alg2-tp1/assets/47651648/6abbd92b-8aa8-42ff-83ce-74823291df36)
 
 
 ### Lymphography
 
-Linearmente separável.
-
-Precisão: 0.5
-
-Revocação: 1.0
-
-F1-score: 0.6666666666666666
+Linearmente separável.  
+Precisão: 0.5  
+Revocação: 1.0  
+F1-score: 0.6666666666666666  
 
 ![image](https://github.com/mateuskrause/alg2-tp1/assets/47651648/1d2b2208-f6dc-4290-a1f0-cc966eb465b8)
 
 ### Dermatology
 
-Linearmente separável.
+Linearmente separável.  
+Precisão: 1.0  
+Revocação: 1.0  
+F1-score: 1.0  
 
-Precisão: 1.0
+![image](https://github.com/mateuskrause/alg2-tp1/assets/47651648/ff0d1203-f106-4017-a6db-04a75da62655)
 
-Revocação: 1.0
-
-F1-score: 1.0
-
-![image](https://github.com/mateuskrause/alg2-tp1/assets/47651648/630818d1-ba76-49d0-b988-d86de3b73a16)
 
 ### Synthetic-3
 
-Linearmente separável.
-
-Precisão: 0.9782608695652174
-
-Revocação: 0.9782608695652174
-
-F1-score: 0.9782608695652174
+Linearmente separável.  
+Precisão: 0.9782608695652174  
+Revocação: 0.9782608695652174  
+F1-score: 0.9782608695652174  
 
 ![image](https://github.com/mateuskrause/alg2-tp1/assets/47651648/74f839df-e16a-4604-9d8d-de852ddafbbc)
 
