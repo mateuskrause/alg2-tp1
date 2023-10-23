@@ -27,7 +27,8 @@ Precisão: 1.0
 Revocação: 1.0  
 F1-score: 1.0  
 
-![image](https://github.com/mateuskrause/alg2-tp1/assets/47651648/6abbd92b-8aa8-42ff-83ce-74823291df36)
+![image](https://github.com/mateuskrause/alg2-tp1/assets/47651648/069c419a-aa27-4431-a127-6ba43debefcd)
+
 
 
 ### Lymphography
@@ -37,7 +38,7 @@ Precisão: 0.5
 Revocação: 1.0  
 F1-score: 0.6666666666666666  
 
-![image](https://github.com/mateuskrause/alg2-tp1/assets/47651648/1d2b2208-f6dc-4290-a1f0-cc966eb465b8)
+![image](https://github.com/mateuskrause/alg2-tp1/assets/47651648/c34bfd40-1966-4231-9006-ecefe4f5088a)
 
 ### Dermatology
 
@@ -46,8 +47,7 @@ Precisão: 1.0
 Revocação: 1.0  
 F1-score: 1.0  
 
-![image](https://github.com/mateuskrause/alg2-tp1/assets/47651648/ff0d1203-f106-4017-a6db-04a75da62655)
-
+![image](https://github.com/mateuskrause/alg2-tp1/assets/47651648/ac63f78f-f5c6-4a74-8f99-d7bef06ba6fe)
 
 ### Synthetic-3
 
@@ -56,13 +56,10 @@ Precisão: 0.9782608695652174
 Revocação: 0.9782608695652174  
 F1-score: 0.9782608695652174  
 
-![image](https://github.com/mateuskrause/alg2-tp1/assets/47651648/74f839df-e16a-4604-9d8d-de852ddafbbc)
-
+![image](https://github.com/mateuskrause/alg2-tp1/assets/47651648/4266e6c3-2ad2-4e25-867a-44cd31b47fd4)
 
 ### Twonorm
 
 Não é linearmente separável.
 
-![image](https://github.com/mateuskrause/alg2-tp1/assets/47651648/05c7b09f-4b0d-4599-b221-4156798b0dd9)
-
-
+![image](https://github.com/mateuskrause/alg2-tp1/assets/47651648/cea6b3b0-b171-443a-9ee9-b2caf20a3260)
