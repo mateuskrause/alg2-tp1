@@ -1,10 +1,10 @@
-# alg2-tp1
+# 📃README: Algoritmos de Geometria Computacional para Aprendizado de Máquina
 
 Trabalho prático sobre geometria computacional para a disciplina DCC207. Criação de algoritmos de envoltória convexa e verificação de interseção de segmentos para o problema de classificação em aprendizado de máquina supervisionado.
 
 Autores: @brisabn, @mateuskrause, @henriquemv23
 
-## Objetivos
+## 📍Objetivos
 
 Se tem como meta a criação de um modelo que tem como objetivo atribuir rótulos a amostras desconhecidas com base nas características extraídas de um conjunto de treinamento. A premissa fundamental é a de que, ao entender as características principais das amostras de treinamento com diferentes rótulos, nosso algoritmo será capaz de generalizar e fazer previsões precisas para novos dados.
 Para isso, delimitamos o escopo como sendo de dados bidimensionais e com duas classificações. Conjunto de dados com um número maior de características e classificações devem ser reduzidos utilizando outros algoritmos, como o SVD. Caso as classificações não sejam linearmente separáveis, apenas informamos não ser possível obter um modelo de classificação. 
@@ -16,11 +16,11 @@ Dado um Dataset bidimensional com duas classes, exploramos:
 
 Nos algoritmos para reduzir dimensionalidade e avaliação de resultados, excepcionalmente, utilizamos algoritmos já disponíveis, visto que nosso objetivo é apresentar uma implementação de algoritmos geométricos.
 
-## Exemplos
+## 📍Exemplos
 
 A seguir alguns exemplos de classificações feitas pelo algoritmo:
 
-### Iris
+### 🔹Iris
 
 Linearmente separável.  
 Precisão: 1.0  
@@ -31,7 +31,7 @@ F1-score: 1.0
 
 
 
-### Lymphography
+### 🔹Lymphography
 
 Linearmente separável.  
 Precisão: 0.5  
@@ -40,7 +40,7 @@ F1-score: 0.6666666666666666
 
 ![image](https://github.com/mateuskrause/alg2-tp1/assets/47651648/c34bfd40-1966-4231-9006-ecefe4f5088a)
 
-### Dermatology
+### 🔹Dermatology
 
 Linearmente separável.  
 Precisão: 1.0  
@@ -49,7 +49,7 @@ F1-score: 1.0
 
 ![image](https://github.com/mateuskrause/alg2-tp1/assets/47651648/ac63f78f-f5c6-4a74-8f99-d7bef06ba6fe)
 
-### Synthetic-3
+### 🔹Synthetic-3
 
 Linearmente separável.  
 Precisão: 0.9782608695652174  
@@ -58,7 +58,7 @@ F1-score: 0.9782608695652174
 
 ![image](https://github.com/mateuskrause/alg2-tp1/assets/47651648/4266e6c3-2ad2-4e25-867a-44cd31b47fd4)
 
-### Twonorm
+### 🔹Twonorm
 
 Não é linearmente separável.
 
